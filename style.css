@@ -219,6 +219,12 @@ body {
 .show-popup {
   transform: scale(1);
 }
+.show-popup .single-info span{
+  font-size: 20px;
+}
+.heart-icon{
+  font-size: larger;
+}
 .change-color{
   color:red;
 }
